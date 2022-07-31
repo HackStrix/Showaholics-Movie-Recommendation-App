@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project_flix/screens/home/myflix.dart';
-import 'file:///D:/Users/Narula/AndroidStudioProjects/project_flix/lib/screens/home/Home.dart';
+import 'package:project_flix/screens/home/Home.dart';
 import 'package:project_flix/screens/home/whatisnew.dart';
 import 'package:project_flix/service/auth.dart';
 import 'package:bubbled_navigation_bar/bubbled_navigation_bar.dart';
